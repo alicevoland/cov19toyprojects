@@ -1,0 +1,9 @@
+[submodule "cov19spring"]
+	path = cov19spring
+	url = ./cov19spring
+[submodule "cov19react"]
+	path = cov19react
+	url = ./cov19react
+[submodule "cov19django"]
+	path = cov19django
+	url = ./cov19django
