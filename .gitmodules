@@ -1,9 +1,9 @@
 [submodule "cov19spring"]
 	path = cov19spring
-	url = ./cov19spring
+	url = git@github.com:mvoland/cov19spring.git
 [submodule "cov19react"]
 	path = cov19react
-	url = ./cov19react
+	url = git@github.com:mvoland/cov19react.git
 [submodule "cov19django"]
 	path = cov19django
-	url = ./cov19django
+	url = git@github.com:mvoland/cov19django.git
